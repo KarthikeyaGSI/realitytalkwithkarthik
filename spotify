@@ -1,0 +1,597 @@
+
+{
+  "copyrights": [],
+  "description": "The business world is full of overnight success stories and get-rich-quick schemes. This isn't that podcast. Welcome to Reality Check with Karthik, where we cut through the entrepreneurial BS and talk about what building a business looks like. I'm Karthik Thallapally, founder of a marketing agency and Global Sustainable Initiative, who's helped 50+ entrepreneurs grow their businesses. But here's the thing—I'm still figuring it out too. And that's exactly why this podcast exists. What you'll get:  Real talk about the mistakes I'm making (so you don't have to) Honest breakdowns of business, finance, and sustainable growth No-fluff strategies that actually work for beginners The truth about entrepreneurship that no one talks about  Perfect for: Aspiring entrepreneurs and early-stage founders who are tired of highlight reels and want the real story. Each episode is 5-10 minutes of pure value—because your time matters, and fluff doesn't. Ready to stop chasing fantasies and start building something real? Hit subscribe and let's navigate this journey together. New episodes every Tuesday, Thursday, and Saturday at 8:30 PM. Real insights, real struggles, real growth. karthikeyathallapally.substack.com",
+  "html_description": "The business world is full of overnight success stories and get-rich-quick schemes. This isn&#39;t that podcast.<br/>Welcome to Reality Check with Karthik, where we cut through the entrepreneurial BS and talk about what building a business looks like.<br/>I&#39;m Karthik Thallapally, founder of a marketing agency and Global Sustainable Initiative, who&#39;s helped 50&#43; entrepreneurs grow their businesses. But here&#39;s the thing—I&#39;m still figuring it out too. And that&#39;s exactly why this podcast exists.<br/>What you&#39;ll get:<br/>Real talk about the mistakes I&#39;m making (so you don&#39;t have to)<br/>Honest breakdowns of business, finance, and sustainable growth<br/>No-fluff strategies that actually work for beginners<br/>The truth about entrepreneurship that no one talks about<br/>Perfect for: Aspiring entrepreneurs and early-stage founders who are tired of highlight reels and want the real story.<br/>Each episode is 5-10 minutes of pure value—because your time matters, and fluff doesn&#39;t.<br/>Ready to stop chasing fantasies and start building something real? Hit subscribe and let&#39;s navigate this journey together.<br/>New episodes every Tuesday, Thursday, and Saturday at 8:30 PM. Real insights, real struggles, real growth. <br /><br /><a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+  "explicit": false,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/show/2ivYk5cSwip41MPRVI5yCD"
+  },
+  "href": "https://api.spotify.com/v1/shows/2ivYk5cSwip41MPRVI5yCD?market=IN&locale=en-US%2Cen%3Bq%3D0.9",
+  "id": "2ivYk5cSwip41MPRVI5yCD",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6765630000ba8ad6ddc3557596e83911833494",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67656300005f1fd6ddc3557596e83911833494",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6765630000f68dd6ddc3557596e83911833494",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "is_externally_hosted": false,
+  "languages": ["en"],
+  "media_type": "audio",
+  "name": "Reality Check with Karthik",
+  "publisher": "Karthikeya Thallapally",
+  "type": "show",
+  "uri": "spotify:show:2ivYk5cSwip41MPRVI5yCD",
+  "total_episodes": 14,
+  "episodes": {
+    "href": "https://api.spotify.com/v1/shows/2ivYk5cSwip41MPRVI5yCD/episodes?offset=0&limit=50&market=IN&locale=en-US,en;q%3D0.9",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 14,
+    "items": [
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Z73DqY9sPWOJMswPXKJjx/clip_0_39829.mp3",
+        "description": "Transform your kitchen scraps into nutrient-rich compost in just 30 seconds! In this quick guide, we show you the simple steps to turn everyday waste into “black gold” for your garden. Discover how to layer green and brown materials, monitor moisture levels, and speed up the composting process. Watch as we demonstrate the best items to compost and share tips for a thriving compost pile. Whether you're a seasoned gardener or just starting, this video is perfect for anyone looking to reduce waste and enrich their soil. Don’t forget to like and share this video if you found it helpful! Thanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>Transform your kitchen scraps into nutrient-rich compost in just 30 seconds! In this quick guide, we show you the simple steps to turn everyday waste into “black gold” for your garden. Discover how to layer green and brown materials, monitor moisture levels, and speed up the composting process. Watch as we demonstrate the best items to compost and share tips for a thriving compost pile. Whether you&#39;re a seasoned gardener or just starting, this video is perfect for anyone looking to reduce waste and enrich their soil. Don’t forget to like and share this video if you found it helpful! </p><p></p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 39829,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4Xy65MZWKuHCs2LhPP4mDZ"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4Xy65MZWKuHCs2LhPP4mDZ",
+        "id": "4Xy65MZWKuHCs2LhPP4mDZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8adc2fd967013715126995988f",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fdc2fd967013715126995988f",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68ddc2fd967013715126995988f",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Turn Kitchen Waste into Gold: Composting 101",
+        "release_date": "2025-06-08",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4Xy65MZWKuHCs2LhPP4mDZ"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1s9SN2uyArhkMqnMIKeYZC/clip_646521_706521.mp3",
+        "description": "I've created a comprehensive 30-minute podcast script for \"Reality Talks with Karthik\" covering B2B, B2C, and FOCO business models. The Podcast includes Key Features:* Authentic, conversational tone that matches a reality-based podcast* Real-world examples from both global and Indian companies* Practical advice with specific numbers and data points* Clear segment structure for easy recording and editing* Action steps for listeners to implementResearch-backed Content:* Detailed explanations of each business model* Success stories like Freshworks (B2B), Boat (B2C), and Wow! Momo (FOCO)* Common mistakes and how to avoid themKey Terms Covered:* B2B (Business to Business)* B2C (Business to Consumer)* FOCO (Franchise Owned, Company Operated)* Unit Economics* Customer Acquisition Cost (CAC)* Return on Investment (ROI)Companies Mentioned:* Salesforce (B2B CRM)* Zoom (B2B Video Conferencing)* Freshworks (B2B Customer Support)* Swiggy/Zomato (B2C Food Delivery)* Boat (B2C Audio Products)* Wow! Momo (FOCO Restaurant Chain)Follow  Reality Talks with Karthik on SubstackFollow Reality Talks with Karthik on SpotifyFollow Karthikeya Thallapally on YouTubeGet to Know me To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p></p><p>I&#39;ve created a comprehensive 30-minute podcast script for &#34;Reality Talks with Karthik&#34; covering B2B, B2C, and FOCO business models. The Podcast includes </p><p>Key Features:</p><p>* Authentic, conversational tone that matches a reality-based podcast</p><p>* Real-world examples from both global and Indian companies</p><p>* Practical advice with specific numbers and data points</p><p>* Clear segment structure for easy recording and editing</p><p>* Action steps for listeners to implement</p><p>Research-backed Content:</p><p>* Detailed explanations of each business model</p><p>* Success stories like Freshworks (B2B), Boat (B2C), and Wow! Momo (FOCO)</p><p>* Common mistakes and how to avoid them</p><p>Key Terms Covered:</p><p>* B2B (Business to Business)</p><p>* B2C (Business to Consumer)</p><p>* FOCO (Franchise Owned, Company Operated)</p><p>* Unit Economics</p><p>* Customer Acquisition Cost (CAC)</p><p>* Return on Investment (ROI)</p><p>Companies Mentioned:</p><p>* Salesforce (B2B CRM)</p><p>* Zoom (B2B Video Conferencing)</p><p>* Freshworks (B2B Customer Support)</p><p>* Swiggy/Zomato (B2C Food Delivery)</p><p>* Boat (B2C Audio Products)</p><p>* Wow! Momo (FOCO Restaurant Chain)</p><p>Follow  <a href=\"https://karthikeyathallapally.substack.com/\" rel=\"nofollow\">Reality Talks with Karthik on Substack</a></p><p>Follow <a href=\"https://open.spotify.com/show/2ivYk5cSwip41MPRVI5yCD?si&#61;37ec393cbcec47cb\" rel=\"nofollow\">Reality Talks with Karthik on Spotify</a></p><p>Follow <a href=\"https://www.youtube.com/&#64;karthikeyagsi/videos\" rel=\"nofollow\">Karthikeya Thallapally on YouTube</a></p><p><a href=\"https://karthikeya-thallapally.lovable.app/\" rel=\"nofollow\">Get to Know me</a></p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 1383615,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3feG0IAGJaYwfQZqA4VHaA"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3feG0IAGJaYwfQZqA4VHaA",
+        "id": "3feG0IAGJaYwfQZqA4VHaA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a247b5ed43f5c7ef9acb1da1a",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f247b5ed43f5c7ef9acb1da1a",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d247b5ed43f5c7ef9acb1da1a",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "The Business Model Blueprint - B2B, B2C, and FOCO Explained!",
+        "release_date": "2025-06-07",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 172000
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3feG0IAGJaYwfQZqA4VHaA"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5O0UVK8C7Zt8wcafMEAQ35/clip_8159_68159.mp3",
+        "description": "Discover how your banana peels and vegetable scraps can transform into nature's most powerful plant food! This episode breaks down the art of composting into simple, actionable steps anyone can follow.Learn why chemical fertilizers might be doing more harm than good, and how switching to homemade compost can revolutionize your garden's health. We explore the fascinating process of turning everyday kitchen waste into nutrient-rich soil that your plants will love.The discussion extends beyond just gardening, touching on how sustainable practices like composting contribute to a healthier environment and potentially even your wallet. Karthik shares valuable insights connecting these eco-friendly habits to broader business and financial wisdom.Ready to start your composting journey and join the movement towards sustainable gardening? Listen to this episode to unlock the secrets of creating your own \"black gold\" while contributing to a greener planet.🎧 Press play now to transform your kitchen waste into gardening success!Please get to know meThanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>Discover how your banana peels and vegetable scraps can transform into nature&#39;s most powerful plant food! This episode breaks down the art of composting into simple, actionable steps anyone can follow.</p><p>Learn why chemical fertilizers might be doing more harm than good, and how switching to homemade compost can revolutionize your garden&#39;s health. We explore the fascinating process of turning everyday kitchen waste into nutrient-rich soil that your plants will love.</p><p>The discussion extends beyond just gardening, touching on how sustainable practices like composting contribute to a healthier environment and potentially even your wallet. Karthik shares valuable insights connecting these eco-friendly habits to broader business and financial wisdom.</p><p>Ready to start your composting journey and join the movement towards sustainable gardening? Listen to this episode to unlock the secrets of creating your own &#34;black gold&#34; while contributing to a greener planet.</p><p>&#x1f3a7; Press play now to transform your kitchen waste into gardening success!</p><p><a href=\"https://karthikeya-thallapally.lovable.app/\" rel=\"nofollow\">Please get to know me</a></p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 86540,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/3UN8bhpmUkIEhyFjQ1rq2I"
+        },
+        "href": "https://api.spotify.com/v1/episodes/3UN8bhpmUkIEhyFjQ1rq2I",
+        "id": "3UN8bhpmUkIEhyFjQ1rq2I",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a2920c7ae45325b78f1871308",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f2920c7ae45325b78f1871308",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d2920c7ae45325b78f1871308",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Composting for a Greener Tomorrow: Simple Steps to Nourishing Your Garden",
+        "release_date": "2025-06-05",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:3UN8bhpmUkIEhyFjQ1rq2I"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2x62pMvwfBgMe1N4Ohs4P0/clip_40027_100027.mp3",
+        "description": "♻️ Ready to turn waste into green gold?Just dropped a fresh video on How to Start Composting – The Easy Way 🌱Whether you're living in a city apartment or a countryside home, composting is the simplest step toward sustainable living.🔥 Why watch?✅ Step-by-step demo✅ Low-cost setup✅ Backed by real science + zero-waste hacks✅ Perfect for eco-curious beginners and future greenpreneursI’m on a mission to make sustainability simple and scalable—and composting is where it begins.Let’s create a circular future, one compost bin at a time.#SustainabilityThanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>♻️ Ready to turn waste into green gold?</p><p>Just dropped a fresh video on How to Start Composting – The Easy Way &#x1f331;Whether you&#39;re living in a city apartment or a countryside home, composting is the simplest step toward sustainable living.</p><p>&#x1f525; Why watch?✅ Step-by-step demo✅ Low-cost setup✅ Backed by real science &#43; zero-waste hacks✅ Perfect for eco-curious beginners and future greenpreneurs</p><p>I’m on a mission to make sustainability simple and scalable—and composting is where it begins.</p><p></p><p>Let’s create a circular future, one compost bin at a time.</p><p>#Sustainability</p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 112405,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4fJ0rK0r2d495AQye0Kvh9"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4fJ0rK0r2d495AQye0Kvh9",
+        "id": "4fJ0rK0r2d495AQye0Kvh9",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8add4ea03a940bc6c827263a83",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fdd4ea03a940bc6c827263a83",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68ddd4ea03a940bc6c827263a83",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Composting Explained!",
+        "release_date": "2025-06-04",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4fJ0rK0r2d495AQye0Kvh9"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3jPN6OSAKL1NmhkrFOzJze/clip_8254_68254.mp3",
+        "description": "The digital revolution is shifting—sustainability is the new benchmark for success. Businesses worldwide are realizing that growth isn’t just about profit, but purpose.At Global Sustainable Initiative, we help companies integrate eco-friendly web development and green digital marketing strategies that minimize environmental impact while maximizing brand trust and customer engagement.✅ Reduce your digital carbon footprint✅ Boost brand loyalty and reputation ✅ Attract conscious, values-driven consumers ✅ Drive measurable business growth through sustainabilityDon't just adapt to the future—lead it! Join the movement proving that profit and planet can thrive together.🌱 Ready to create your ripple effect? Learn more here: Global Sustainable Initiative - Complete Digital Marketing Solutions#Sustainability #DigitalMarketing #EcoFriendlyWeb #100thMonkeyEffect #GSIThanks for reading! Subscribe for free to receive new posts and support my work.Thanks for reading! This post is public so feel free to share it. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>The digital revolution is shifting—sustainability is the new benchmark for success. Businesses worldwide are realizing that growth isn’t just about profit, but purpose.</p><p>At Global Sustainable Initiative, we help companies integrate eco-friendly web development and green digital marketing strategies that minimize environmental impact while maximizing brand trust and customer engagement.</p><p>✅ Reduce your digital carbon footprint</p><p>✅ Boost brand loyalty and reputation</p><p> ✅ Attract conscious, values-driven consumers</p><p> ✅ Drive measurable business growth through sustainability</p><p>Don&#39;t just adapt to the future—lead it! Join the movement proving that profit and planet can thrive together.</p><p>&#x1f331; Ready to create your ripple effect? </p><p>Learn more here: <a href=\"https://globalsustainableinitiative.netlify.app/\" rel=\"nofollow\">Global Sustainable Initiative - Complete Digital Marketing Solutions</a></p><p>#Sustainability #DigitalMarketing #EcoFriendlyWeb #100thMonkeyEffect #GSI</p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p><p>Thanks for reading! This post is public so feel free to share it.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 120255,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7zNHAelccEpKF3QGMsbJQg"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7zNHAelccEpKF3QGMsbJQg",
+        "id": "7zNHAelccEpKF3QGMsbJQg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a8b8eafe2a670200f2a134f39",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f8b8eafe2a670200f2a134f39",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d8b8eafe2a670200f2a134f39",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "100th Monkey Effect Explained!",
+        "release_date": "2025-05-31",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7zNHAelccEpKF3QGMsbJQg"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/428eXS8gvKHz19T0cpXD4K/clip_96_60096.mp3",
+        "description": " Discover the inspiring stories behind the pioneers of sustainability in our latest video, \"Eco Warriors: Pioneers of a Greener Tomorrow.\" 🌍 Meet innovative startups creating eco-friendly products, major corporations embracing renewable energy, and passionate leaders dedicated to environmental justice. These trailblazers not only pave the way for a sustainable future but also motivate us all to take action in our own lives. From groundbreaking technologies to impactful community initiatives, these profiles serve as powerful case studies for best practices in sustainability. Join us in celebrating these incredible efforts and let their stories inspire your journey toward a greener tomorrow! 🎵 Enjoy the uplifting tunes from the YouTube Standard Library. Don’t forget to like, share, and spread the word! #Sustainability #EcoWarriors #GreenLiving #EnvironmentalImpact #InspirationThanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p> Discover the inspiring stories behind the pioneers of sustainability in our latest video, &#34;Eco Warriors: Pioneers of a Greener Tomorrow.&#34; &#x1f30d; Meet innovative startups creating eco-friendly products, major corporations embracing renewable energy, and passionate leaders dedicated to environmental justice. These trailblazers not only pave the way for a sustainable future but also motivate us all to take action in our own lives. From groundbreaking technologies to impactful community initiatives, these profiles serve as powerful case studies for best practices in sustainability. Join us in celebrating these incredible efforts and let their stories inspire your journey toward a greener tomorrow! </p><p>&#x1f3b5; Enjoy the uplifting tunes from the YouTube Standard Library. Don’t forget to like, share, and spread the word! </p><p>#Sustainability #EcoWarriors #GreenLiving #EnvironmentalImpact #Inspiration</p><p></p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 61546,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7eO57i1E0Yt2jMyPLR2Xcx"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7eO57i1E0Yt2jMyPLR2Xcx",
+        "id": "7eO57i1E0Yt2jMyPLR2Xcx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8af52368e134e315bac277a5cb",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1ff52368e134e315bac277a5cb",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68df52368e134e315bac277a5cb",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Eco Warriors: Pioneers of a Greener Tomorrow",
+        "release_date": "2025-05-27",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7eO57i1E0Yt2jMyPLR2Xcx"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3kHG8xLMD3uZXvniSh8f4Q/clip_0_34752.mp3",
+        "description": "Ready to make a positive impact on our planet? In this video, \"5 Easy Eco-Friendly Habits You Can Start Today!\", we share simple, practical tips that everyone can implement! 🌍✨ From reducing plastic use with reusable items to conserving water through mindful practices, these actionable steps will empower you to live more sustainably. Discover how switching to renewable energy, supporting eco-conscious brands, and embracing a plant-based diet can transform your lifestyle while helping the environment. Join us in creating a greener future—every small change counts! Don’t forget to like and share this video to inspire others! Subscribe to youtube.com/@karthikeya.thallapally for more!Subscribe for moreThanks for reading! Subscribe for free to receive new posts and support my work.#EcoFriendly #SustainableLiving #GreenHabits #ClimateAction #PlantBasedDiet To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>Ready to make a positive impact on our planet? In this video, &#34;5 Easy Eco-Friendly Habits You Can Start Today!&#34;, we share simple, practical tips that everyone can implement! &#x1f30d;✨ From reducing plastic use with reusable items to conserving water through mindful practices, these actionable steps will empower you to live more sustainably. Discover how switching to renewable energy, supporting eco-conscious brands, and embracing a plant-based diet can transform your lifestyle while helping the environment. Join us in creating a greener future—every small change counts! Don’t forget to like and share this video to inspire others! </p><p>Subscribe to youtube.com/&#64;karthikeya.thallapally for more!</p><p></p><p>Subscribe for more</p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p><p></p><p></p><p></p><p></p><p>#EcoFriendly #SustainableLiving #GreenHabits #ClimateAction #PlantBasedDiet</p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 34752,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0t2AVdPLij6Z92wUYhp0hg"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0t2AVdPLij6Z92wUYhp0hg",
+        "id": "0t2AVdPLij6Z92wUYhp0hg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a7c125255c1b5cc66bbe57116",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f7c125255c1b5cc66bbe57116",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d7c125255c1b5cc66bbe57116",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Wanna be a hero for the planet?",
+        "release_date": "2025-05-25",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0t2AVdPLij6Z92wUYhp0hg"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4JYCA9NDpAxRi6ToqSVhaU/clip_7004_67004.mp3",
+        "description": "Explore the future of sustainability in our latest video, \"Revolutionizing Sustainability: Tech Innovations Leading the Way!\" 🌍 Discover groundbreaking inventions like biodegradable packaging that naturally decomposes, eco-friendly building materials such as bamboo and recycled steel, and cutting-edge renewable energy solutions that maximize solar and wind efficiency. We’ll also delve into smart technologies utilizing IoT devices to monitor and optimize energy use, showcasing how innovation is driving us towards a greener planet. Join us on this inspiring journey and witness tangible progress in the fight against climate change. If you find this content valuable, please like and share! #Sustainability #InnovativeTech #EcoFriendly #RenewableEnergy #GreenBuildingSubscribe to Karthikeya Thallapally for more content related to sustainability!Subscribe to youtube.com/@karthikeya.thallapally for more sustainable content!Thanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>Explore the future of sustainability in our latest video, &#34;Revolutionizing Sustainability: Tech Innovations Leading the Way!&#34; &#x1f30d; Discover groundbreaking inventions like biodegradable packaging that naturally decomposes, eco-friendly building materials such as bamboo and recycled steel, and cutting-edge renewable energy solutions that maximize solar and wind efficiency. We’ll also delve into smart technologies utilizing IoT devices to monitor and optimize energy use, showcasing how innovation is driving us towards a greener planet. Join us on this inspiring journey and witness tangible progress in the fight against climate change. If you find this content valuable, please like and share! </p><p></p><p>#Sustainability #InnovativeTech #EcoFriendly #RenewableEnergy #GreenBuilding</p><p></p><p>Subscribe to <a href=\"https://substack.com/profile/298216328-karthikeya-thallapally\" rel=\"nofollow\">Karthikeya Thallapally</a> for more content related to sustainability!</p><p>Subscribe to youtube.com/&#64;karthikeya.thallapally for more sustainable content!</p><p></p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 69162,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/36TvEJCThTAVcFpTwsaVhL"
+        },
+        "href": "https://api.spotify.com/v1/episodes/36TvEJCThTAVcFpTwsaVhL",
+        "id": "36TvEJCThTAVcFpTwsaVhL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a7b7f0277d21cc30838653b9f",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f7b7f0277d21cc30838653b9f",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d7b7f0277d21cc30838653b9f",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Revolutionizing Sustainability: Tech Innovations Leading the Way!",
+        "release_date": "2025-05-22",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": true,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:36TvEJCThTAVcFpTwsaVhL"
+      },
+      null,
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3FIEdcStbAmUnkomU2Yrw9/clip_0_19455.mp3",
+        "description": "In this eye-opening Episode 1 of \"The True Cost of Convenience,\" we delve into the shocking reality of single-use plastics and their impact on our planet. Did you know a plastic spoon used for just 5 minutes can take over 500 years to decompose? With over 8 million tons of plastic dumped into our oceans yearly, it's time to change! 💔 But there's hope! Discover how easy it is to adopt a sustainable lifestyle with reusable alternatives like metal bottles and bamboo cutlery. 🌍✨ Join us in making small habits for a big future. Don't forget to like and share this video to spread the word! Shop Now sustainable products: https://amzn.to/4j0BYAzSustainable furniture: https://amzn.to/3Sr0UWOSustainable living books: https://amzn.to/4d55B24Sustainable Clothing for men: https://amzn.to/4d9XsJZ Sustainable Clothing for Women: https://amzn.to/4546MwOSustainable travel kit: https://amzn.to/4k3YwB6 https://amzn.to/436zTx3Follow Karthikeya Thallapally on other social media platforms for more content related to sustainability!YouTube: https://lnkd.in/eqqQ43bfWeekly Newsletter https://lnkd.in/e2EqQVd4Link Mint: https://lnkd.in/e7aDSsqZ X https://lnkd.in/eZCDgBnfSubstack https://lnkd.in/ezA_WxPhGlobal Sustainable Initiative https://lnkd.in/eXQuYtx7Health and Wellness https://lnkd.in/eYiG6y25Entrepreneurship https://lnkd.in/euqbcxwNBsky https://lnkd.in/ehm4MBr3#SustainableLiving #PlasticPollution #EcoFriendly #GreenChoicesThanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>In this eye-opening Episode 1 of &#34;The True Cost of Convenience,&#34; we delve into the shocking reality of single-use plastics and their impact on our planet. Did you know a plastic spoon used for just 5 minutes can take over 500 years to decompose? With over 8 million tons of plastic dumped into our oceans yearly, it&#39;s time to change! &#x1f494; But there&#39;s hope! Discover how easy it is to adopt a sustainable lifestyle with reusable alternatives like metal bottles and bamboo cutlery. &#x1f30d;✨ Join us in making small habits for a big future. Don&#39;t forget to like and share this video to spread the word! Shop Now sustainable products: <a href=\"https://amzn.to/4j0BYAz\" rel=\"nofollow\">https://amzn.to/4j0BYAz</a>Sustainable furniture: <a href=\"https://amzn.to/3Sr0UWO\" rel=\"nofollow\">https://amzn.to/3Sr0UWO</a>Sustainable living books: <a href=\"https://amzn.to/4d55B24\" rel=\"nofollow\">https://amzn.to/4d55B24</a>Sustainable Clothing for men: <a href=\"https://amzn.to/4d9XsJZ\" rel=\"nofollow\">https://amzn.to/4d9XsJZ</a> Sustainable Clothing for Women: <a href=\"https://amzn.to/4546MwO\" rel=\"nofollow\">https://amzn.to/4546MwO</a>Sustainable travel kit: <a href=\"https://amzn.to/4k3YwB6\" rel=\"nofollow\">https://amzn.to/4k3YwB6</a> <a href=\"https://amzn.to/436zTx3\" rel=\"nofollow\">https://amzn.to/436zTx3</a>Follow <a href=\"https://www.linkedin.com/in/karthikeyagsi/\" rel=\"nofollow\">Karthikeya Thallapally</a> on other social media platforms for more content related to sustainability!YouTube: <a href=\"https://lnkd.in/eqqQ43bf\" rel=\"nofollow\">https://lnkd.in/eqqQ43bf</a>Weekly Newsletter <a href=\"https://lnkd.in/e2EqQVd4\" rel=\"nofollow\">https://lnkd.in/e2EqQVd4</a>Link Mint: <a href=\"https://lnkd.in/e7aDSsqZ\" rel=\"nofollow\">https://lnkd.in/e7aDSsqZ</a> X <a href=\"https://lnkd.in/eZCDgBnf\" rel=\"nofollow\">https://lnkd.in/eZCDgBnf</a>Substack <a href=\"https://lnkd.in/ezA_WxPh\" rel=\"nofollow\">https://lnkd.in/ezA_WxPh</a>Global Sustainable Initiative <a href=\"https://lnkd.in/eXQuYtx7\" rel=\"nofollow\">https://lnkd.in/eXQuYtx7</a>Health and Wellness <a href=\"https://lnkd.in/eYiG6y25\" rel=\"nofollow\">https://lnkd.in/eYiG6y25</a>Entrepreneurship <a href=\"https://lnkd.in/euqbcxwN\" rel=\"nofollow\">https://lnkd.in/euqbcxwN</a>Bsky <a href=\"https://lnkd.in/ehm4MBr3\" rel=\"nofollow\">https://lnkd.in/ehm4MBr3</a></p><p></p><p><a href=\"https://www.linkedin.com/search/results/all/?keywords&#61;%23sustainableliving&amp;origin&#61;HASH_TAG_FROM_FEED\" rel=\"nofollow\">#SustainableLiving</a> <a href=\"https://www.linkedin.com/search/results/all/?keywords&#61;%23plasticpollution&amp;origin&#61;HASH_TAG_FROM_FEED\" rel=\"nofollow\">#PlasticPollution</a> <a href=\"https://www.linkedin.com/search/results/all/?keywords&#61;%23ecofriendly&amp;origin&#61;HASH_TAG_FROM_FEED\" rel=\"nofollow\">#EcoFriendly</a> <a href=\"https://www.linkedin.com/search/results/all/?keywords&#61;%23greenchoices&amp;origin&#61;HASH_TAG_FROM_FEED\" rel=\"nofollow\">#GreenChoices</a></p><p></p><p></p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 19455,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/4IRYJ0FOQwLSBiFGUJo5lp"
+        },
+        "href": "https://api.spotify.com/v1/episodes/4IRYJ0FOQwLSBiFGUJo5lp",
+        "id": "4IRYJ0FOQwLSBiFGUJo5lp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8ac840aa996b7395cd60d96459",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fc840aa996b7395cd60d96459",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dc840aa996b7395cd60d96459",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "The True Cost of Convenience: Episode 1",
+        "release_date": "2025-05-21",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:4IRYJ0FOQwLSBiFGUJo5lp"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Tz87L5kt1FZYh4lTZaxhO/clip_36093_96093.mp3",
+        "description": "Shop Now: Boat New Launch Nirvana Crystl https://www.amazon.in/dp/B0DGTVRH97?_encoding=UTF8&pf_rd_p=183e54df-178d-4ba3-8559-e20c8534b67e&pf_rd_r=RKTN0AQCX2R8FCEM0F6H&th=1&linkCode=ll1&tag=gsi09-21&linkId=306fa81dfaaa1511bb9b12e710a09528&language=en_IN&ref_=as_li_ss_tl boAt New Launch Air dopes Plus 311 https://amzn.to/4k3fW0S OnePlus Nord Buds 3 Pro Truly Wireless https://amzn.to/3Yu8wLM 🎧 JBL Wave Buds 2 ⚡ Rs 6,999 | Rs 3,499 ⚡ Effective price: Rs 2,999 https://amzn.to/3EOgUzc OnePlus Nord Buds 3 Pro Truly Wireless https://amzn.to/3Yu8wLM #SummerSale #Earbuds #Headphones #TechDeals #Gadgets #AudioTechSubscribe for moreThanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>Shop Now: </p><p></p><p>Boat New Launch Nirvana Crystl https://www.amazon.in/dp/B0DGTVRH97?_encoding&#61;UTF8&amp;pf_rd_p&#61;183e54df-178d-4ba3-8559-e20c8534b67e&amp;pf_rd_r&#61;RKTN0AQCX2R8FCEM0F6H&amp;th&#61;1&amp;linkCode&#61;ll1&amp;tag&#61;gsi09-21&amp;linkId&#61;306fa81dfaaa1511bb9b12e710a09528&amp;language&#61;en_IN&amp;ref_&#61;as_li_ss_tl </p><p>boAt New Launch Air dopes Plus 311 https://amzn.to/4k3fW0S OnePlus Nord Buds 3 Pro Truly Wireless https://amzn.to/3Yu8wLM &#x1f3a7; JBL Wave Buds 2 ⚡ Rs 6,999 | Rs 3,499 ⚡ Effective price: Rs 2,999 https://amzn.to/3EOgUzc </p><p></p><p>OnePlus Nord Buds 3 Pro Truly Wireless https://amzn.to/3Yu8wLM #SummerSale #Earbuds #Headphones #TechDeals #Gadgets #AudioTech</p><p>Subscribe for more</p><p></p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 129613,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/0oguaxSLQVsiJjaGSaS58n"
+        },
+        "href": "https://api.spotify.com/v1/episodes/0oguaxSLQVsiJjaGSaS58n",
+        "id": "0oguaxSLQVsiJjaGSaS58n",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8ac0342342bbe062817c48e08a",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fc0342342bbe062817c48e08a",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dc0342342bbe062817c48e08a",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Epic Summer Sale: Earbuds & Headphones Up to 70% Off!",
+        "release_date": "2025-05-20",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:0oguaxSLQVsiJjaGSaS58n"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3NFkgGd9pX1V8exMDDGAK8/clip_213709_273709.mp3",
+        "description": "A few months ago, I caught myself in a familiar trap. There I was, spending an hour tinkering with an email subject line. I’d analyzed variations, scrutinized analytics from previous newsletters, and obsessed over every word.I finally looked at the clock and laughed.Because I knew the truth — all that “optimizing” probably wouldn't move the needle more than 1%.And I wasn't just wasting time. I was optimizing for the wrong thing entirely.The Optimization TrapWe're told to A/B test everything. Track every metric. Optimize every funnel step. Split test every headline. Hell, I've preached most of this stuff myself at some point or another.“If you're not optimizing, you're leaving money on the table!”But here's something less talked about:You've gotta leave something on the table.And if it's not money, it’ll be your time, your sanity, your relationships, or your health. Something always gets left behind (especially when money is the target).Every hour you spend tweaking your landing page is an hour you're not spending on something else. And every minute spent testing button colors is a minute you're not creating something new.As I reflect on my career as an entrepreneur, I remember this mistake repeated over and over again.A friend of mine spent six months \"optimizing\" his course sales page. And he ended up improving his conversion rate by 2%. That translated to an extra $10,000 during his latest launch, which sounds great.But during those six months, he could have created three new products, written 24 newsletters, launched a coaching program, or done anything else that would have earned him 10x that same revenue. So the opportunity cost was massive.And that’s the same trap I found myself falling into with that subject line.When Good Enough Beats PerfectThinking about this led me to run an experiment during my current sabbatical in France. I decided to spend less time on social media and watch what would happen. Less time commenting, responding, scrolling Twitter, making connections, etc.The result? My revenue dropped about 3%.But I gained back about ten hours a week! And I spent those hours pondering a new business idea, letting my mind wander, and having lunch with my wife in the world’s best food city.It’s been refreshing, to say the least. And I've sorted out a new business idea that might make up for that 3% loss. Plus, I’m feeling better — recharged and excited to work on an exciting new thing.Now don’t get me wrong here. I'm not suggesting you shouldn't optimize anything. And I’m not telling you to drop everything and pretend like nothing matters. Of course that would be silly.But I am suggesting that you focus your energy and optimization efforts on things that really matter:* Your core product that serves your customers* Your main page that drives 80% of your revenue* Your onboarding sequence that sets client expectationsBut most things?You'd be better off getting them to \"good enough\" and launched, than \"perfect\" and in a perpetual holding pattern.The 80/20 Decision FrameworkHere's how I try to decide what deserves my optimization time. And this is a thinking structure you can use too.When you find yourself tinkering endlessly with a small detail:* Consider the real impact of making the improvement. Not the theoretical impact — the actual impact, based on your revenue numbers.* Estimate the real cost — including opportunity cost, mental energy, and time away from other projects (like your friends and family).* Now ask yourself: Does the impact absolutely dwarf the cost?Here are some real-world examples to show you what I mean:Not Worth It: Spending 20 hours to improve an email sequence that makes $1,500/month by 10%. That's a $150 monthly improvement. (Not worth 20 hours of your time)Consider Carefully: Spending 20 hours to improve a coaching program that generates $8,000/month by 15%. That's a $1,200 monthly improvement. (But could that time be used to create something new instead?)Definitely Worth It: Spending 20 hours to improve a landing page that generates $80,000/month by 5%. That's a $4,000 monthly improvement. (Now we're talking.)Of course, these numbers will vary among different people and scenarios. But at least you have a framework here to help you make better decisions.The Freedom of Good EnoughThe beautiful part about embracing \"good enough\" is that your time is freed up to focus on what actually matters:* Building more (or other) things* Taking more creative risks* Opening up more head space for exciting projectsI’m slowly but surely realizing that \"good enough\" usually is good enough.Because at the end of the day, your customers care more about the value you provide than whether your button color is the right shade of blue. (Yes, I’m talking to myself here.)Your Challenge This Week:I want you to look at your current to-do list.Identify one thing you've been trying to make perfect that could be \"good enough\" as it is now, and ship it.Then use your freed-up time to create something new or do something different. For example, taking a walk outside is a helluva lot better than looking at a computer screen for one more minute (and it really gets the creative juices flowing).Because perfect isn't just the enemy of good. It's the enemy of growth.And that’s all for today.Thanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>A few months ago, I caught myself in a familiar trap. There I was, spending an hour tinkering with an email subject line. I’d analyzed variations, scrutinized analytics from previous newsletters, and obsessed over every word.</p><p>I finally looked at the clock and laughed.</p><p>Because I knew the truth — all that “optimizing” probably wouldn&#39;t move the needle more than 1%.</p><p>And I wasn&#39;t just wasting time. I was optimizing for the wrong thing entirely.</p><p>The Optimization Trap</p><p>We&#39;re told to A/B test everything. Track every metric. Optimize every funnel step. Split test every headline. Hell, I&#39;ve preached most of this stuff myself at some point or another.</p><p>“If you&#39;re not optimizing, you&#39;re leaving money on the table!”</p><p>But here&#39;s something less talked about:</p><p>You&#39;ve gotta leave something on the table.</p><p>And if it&#39;s not money, it’ll be your time, your sanity, your relationships, or your health. Something always gets left behind (especially when money is the target).</p><p>Every hour you spend tweaking your landing page is an hour you&#39;re not spending on something else. And every minute spent testing button colors is a minute you&#39;re not creating something new.</p><p>As I reflect on my career as an entrepreneur, I remember this mistake repeated over and over again.</p><p>A friend of mine spent six months &#34;optimizing&#34; his course sales page. And he ended up improving his conversion rate by 2%. That translated to an extra $10,000 during his latest launch, which sounds great.</p><p>But during those six months, he could have created three new products, written 24 newsletters, launched a coaching program, or done anything else that would have earned him 10x that same revenue. So the opportunity cost was massive.</p><p>And that’s the same trap I found myself falling into with that subject line.</p><p>When Good Enough Beats Perfect</p><p>Thinking about this led me to run an experiment during my current sabbatical in France. I decided to spend less time on social media and watch what would happen. Less time commenting, responding, scrolling Twitter, making connections, etc.</p><p>The result? My revenue dropped about 3%.</p><p>But I gained back about ten hours a week! And I spent those hours pondering a new business idea, letting my mind wander, and having lunch with my wife in the world’s best food city.</p><p>It’s been refreshing, to say the least. And I&#39;ve sorted out a new business idea that might make up for that 3% loss. Plus, I’m feeling better — recharged and excited to work on an exciting new thing.</p><p>Now don’t get me wrong here. I&#39;m not suggesting you shouldn&#39;t optimize anything. And I’m not telling you to drop everything and pretend like nothing matters. Of course that would be silly.</p><p>But I am suggesting that you focus your energy and optimization efforts on things that really matter:</p><p>* Your core product that serves your customers</p><p>* Your main page that drives 80% of your revenue</p><p>* Your onboarding sequence that sets client expectations</p><p>But most things?</p><p>You&#39;d be better off getting them to &#34;good enough&#34; and launched, than &#34;perfect&#34; and in a perpetual holding pattern.</p><p>The 80/20 Decision Framework</p><p>Here&#39;s how I try to decide what deserves my optimization time. And this is a thinking structure you can use too.</p><p>When you find yourself tinkering endlessly with a small detail:</p><p>* Consider the real impact of making the improvement. Not the theoretical impact — the actual impact, based on your revenue numbers.</p><p>* Estimate the real cost — including opportunity cost, mental energy, and time away from other projects (like your friends and family).</p><p>* Now ask yourself: Does the impact absolutely dwarf the cost?</p><p>Here are some real-world examples to show you what I mean:</p><p>Not Worth It: Spending 20 hours to improve an email sequence that makes $1,500/month by 10%. That&#39;s a $150 monthly improvement. (Not worth 20 hours of your time)</p><p>Consider Carefully: Spending 20 hours to improve a coaching program that generates $8,000/month by 15%. That&#39;s a $1,200 monthly improvement. (But could that time be used to create something new instead?)</p><p>Definitely Worth It: Spending 20 hours to improve a landing page that generates $80,000/month by 5%. That&#39;s a $4,000 monthly improvement. (Now we&#39;re talking.)</p><p>Of course, these numbers will vary among different people and scenarios. But at least you have a framework here to help you make better decisions.</p><p>The Freedom of Good Enough</p><p>The beautiful part about embracing &#34;good enough&#34; is that your time is freed up to focus on what actually matters:</p><p>* Building more (or other) things</p><p>* Taking more creative risks</p><p>* Opening up more head space for exciting projects</p><p>I’m slowly but surely realizing that &#34;good enough&#34; usually is good enough.</p><p>Because at the end of the day, your customers care more about the value you provide than whether your button color is the right shade of blue. (Yes, I’m talking to myself here.)</p><p>Your Challenge This Week:</p><p>I want you to look at your current to-do list.</p><p>Identify one thing you&#39;ve been trying to make perfect that could be &#34;good enough&#34; as it is now, and ship it.</p><p>Then use your freed-up time to create something new or do something different. For example, taking a walk outside is a helluva lot better than looking at a computer screen for one more minute (and it really gets the creative juices flowing).</p><p>Because perfect isn&#39;t just the enemy of good. It&#39;s the enemy of growth.</p><p>And that’s all for today.</p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 331946,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/71vda8fgsX95o4y4mMwVkc"
+        },
+        "href": "https://api.spotify.com/v1/episodes/71vda8fgsX95o4y4mMwVkc",
+        "id": "71vda8fgsX95o4y4mMwVkc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9038aaca87cf79948de091a1",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f9038aaca87cf79948de091a1",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d9038aaca87cf79948de091a1",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "The Hidden Cost of Perfection: Why 'Good Enough' is Better!",
+        "release_date": "2025-05-01",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:71vda8fgsX95o4y4mMwVkc"
+      },
+      {
+        "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/65imMJbeBPXzujYkH1XwLz/clip_0_45440.mp3",
+        "description": "“Someday” is a dangerous lie.I believed a lie for a long time. And I bet you’ve believed it too.It goes something like this:Just put in the work now, sacrifice everything, and someday it'll all be worth it.A few weeks ago, I had coffee with a friend who's crushing it by every business metric. His SaaS business crossed $5M ARR with ten employees, he’s been featured in Fast Company, and his board is thrilled. An entrepreneur’s dream, right?But midway through our conversation, sharing the less-sexy details of his story, this guy got physically upset in a crowded coffee shop.\"I've been saying 'someday' for seven years,” he told me. “Someday I'll take that trip with my wife. Someday I'll be at my kid's events. Someday I'll get back in shape.\"But it turns out his somedays are taking too long. And life outside of work is at a breaking point.His marriage is not going well. He’s out of touch with his kids. And his doctor just prescribed blood pressure medication.Meanwhile, business is booming.Just put in the work now, sacrifice everything, and someday it'll all be worth it.The Cruel Math of Deferred LivingThe \"someday\" mindset is a scam.Because when we say \"someday,\" we really mean we’re trading guaranteed time today for imaginary time in the future.But the time you could spend talking to your kids tonight is real. Not walking your dog is real, poor little guy. Those trips you're skipping are real. The conversations you're not having with your partner at dinner are very real. And adding up.We can’t get those opportunities back later.And the perpetual habit of trading now for later adds up to the person you are. Today. Because today is your life. It’s all we can be sure of, here and now.And despite wishful thinking, you won’t change who you’ve become by achieving a milestone “someday.” People don’t cross net worth goals and stop looking at their phones obsessively. They don’t see certain numbers and suddenly start connecting with their neglected spouses. And the kids don’t just say, “Hey Dad, we’re so glad you’re back.”That’s not how life works.The free time you expect “someday” doesn't exist now, and evidence suggests it probably never will. Because people hit their \"someday\" numbers and roll straight into new goals.The goalposts keep sprinting away, and life goes on as usual.A Closer Look At “Success”We look at people who've \"made it\" and conveniently ignore how miserable many of them are. Smiling faces painted on.I know seven-figure business owners who:* Can't sleep without medication* Miss their kids' events on the regular* Haven't taken an unplugged vacation in years* Haven't had a real conversation with their spouses in monthsMeanwhile, their social media feeds are full of humblebrags and poetic advice.And that's the whole con. We believe success leads to happiness. But in reality, the path to success often destroys the things that actually create happiness.I Tried It Both WaysFor the first several years of my business, I lived on the someday plan.I worked long days, ignored my wife more than I’d like to admit, let friendships fade, and told myself it would all be worth it...someday.Then I hit my first “someday” revenue goal. And absolutely nothing changed. I just found new reasons to keep sacrificing. But in the last couple of years, I've committed to doing things differently.I’m very cautious about commitments. I want as few as possible. I limit my work hours. I take long walks without my phone. I take Fridays off, minus one hour. I have dinner with my wife every night, no phones at the table. I’m more social than ever. I’m reading non-business books. I’m taking actual vacations.And the outcome is that I feel more creative and have more enthusiasm for my work. I feel like I’m actually experiencing life instead of just working through it.Breaking the Someday CycleIf this issue is resonating because you're living the \"someday\" life, here are a few tips that might help:* Start by defining your enough: Figure out the actual amount of money that supports your ideal lifestyle. Not society's number. Your number, where you can rest easy and live life.* Schedule your life first, then work: Plan your vacations, date nights, and personal time before you decide to cram your calendar with work. Life first, business second. Then stick to the plan.* Create a \"not someday\" list: Write down experiences that you refuse to put off. Then schedule one of them every month, regardless of how busy you think you are.The Bottom LineSomeday is a goalpost that will keep moving as you inch closer. And it’s an excuse for not showing up today. For yourself, and for the people in your life.The only day we're guaranteed is today, and trading too many todays for somedays is a terrible habit.I'm not suggesting being lazy or quitting what you’re working on. And I’m not saying you don’t have to make sacrifices sometimes. There has to be a balance, of course.I'm suggesting you apply your ambition to your whole life, not just your business.Because the notion of “someday” will keep you on the hamster wheel forever. And nothing is more expensive than regret.Today, we get the chance to live our lives. Right now.Will there be trade-offs and hard work involved in building something meaningful? Of course. But those trade-offs should not destroy our lives in the short term.And the life we have today is all we can be sure of.Thanks for reading! Subscribe for free to receive new posts and support my work. To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>“Someday” is a dangerous lie.</p><p>I believed a lie for a long time. And I bet you’ve believed it too.</p><p>It goes something like this:</p><p>Just put in the work now, sacrifice everything, and someday it&#39;ll all be worth it.</p><p>A few weeks ago, I had coffee with a friend who&#39;s crushing it by every business metric. His SaaS business crossed $5M ARR with ten employees, he’s been featured in Fast Company, and his board is thrilled. An entrepreneur’s dream, right?</p><p>But midway through our conversation, sharing the less-sexy details of his story, this guy got physically upset in a crowded coffee shop.</p><p>&#34;I&#39;ve been saying &#39;someday&#39; for seven years,” he told me. “Someday I&#39;ll take that trip with my wife. Someday I&#39;ll be at my kid&#39;s events. Someday I&#39;ll get back in shape.&#34;</p><p>But it turns out his somedays are taking too long. And life outside of work is at a breaking point.</p><p>His marriage is not going well. He’s out of touch with his kids. And his doctor just prescribed blood pressure medication.</p><p>Meanwhile, business is booming.</p><p>Just put in the work now, sacrifice everything, and someday it&#39;ll all be worth it.</p><p>The Cruel Math of Deferred Living</p><p>The &#34;someday&#34; mindset is a scam.</p><p>Because when we say &#34;someday,&#34; we really mean we’re trading guaranteed time today for imaginary time in the future.</p><p>But the time you could spend talking to your kids tonight is real. Not walking your dog is real, poor little guy. Those trips you&#39;re skipping are real. The conversations you&#39;re not having with your partner at dinner are very real. And adding up.</p><p>We can’t get those opportunities back later.</p><p>And the perpetual habit of trading now for later adds up to the person you are. Today. Because today is your life. It’s all we can be sure of, here and now.</p><p>And despite wishful thinking, you won’t change who you’ve become by achieving a milestone “someday.” People don’t cross net worth goals and stop looking at their phones obsessively. They don’t see certain numbers and suddenly start connecting with their neglected spouses. And the kids don’t just say, “Hey Dad, we’re so glad you’re back.”</p><p>That’s not how life works.</p><p>The free time you expect “someday” doesn&#39;t exist now, and evidence suggests it probably never will. Because people hit their &#34;someday&#34; numbers and roll straight into new goals.</p><p>The goalposts keep sprinting away, and life goes on as usual.</p><p>A Closer Look At “Success”</p><p>We look at people who&#39;ve &#34;made it&#34; and conveniently ignore how miserable many of them are. Smiling faces painted on.</p><p>I know seven-figure business owners who:</p><p>* Can&#39;t sleep without medication</p><p>* Miss their kids&#39; events on the regular</p><p>* Haven&#39;t taken an unplugged vacation in years</p><p>* Haven&#39;t had a real conversation with their spouses in months</p><p>Meanwhile, their social media feeds are full of humblebrags and poetic advice.</p><p>And that&#39;s the whole con. We believe success leads to happiness. But in reality, the path to success often destroys the things that actually create happiness.</p><p>I Tried It Both Ways</p><p>For the first several years of my business, I lived on the someday plan.</p><p>I worked long days, ignored my wife more than I’d like to admit, let friendships fade, and told myself it would all be worth it...someday.</p><p>Then I hit my first “someday” revenue goal. And absolutely nothing changed. I just found new reasons to keep sacrificing. But in the last couple of years, I&#39;ve committed to doing things differently.</p><p>I’m very cautious about commitments. I want as few as possible. I limit my work hours. I take long walks without my phone. I take Fridays off, minus one hour. I have dinner with my wife every night, no phones at the table. I’m more social than ever. I’m reading non-business books. I’m taking actual vacations.</p><p>And the outcome is that I feel more creative and have more enthusiasm for my work. I feel like I’m actually experiencing life instead of just working through it.</p><p>Breaking the Someday Cycle</p><p>If this issue is resonating because you&#39;re living the &#34;someday&#34; life, here are a few tips that might help:</p><p>* Start by defining your enough: Figure out the actual amount of money that supports your ideal lifestyle. Not society&#39;s number. Your number, where you can rest easy and live life.</p><p>* Schedule your life first, then work: Plan your vacations, date nights, and personal time before you decide to cram your calendar with work. Life first, business second. Then stick to the plan.</p><p>* Create a &#34;not someday&#34; list: Write down experiences that you refuse to put off. Then schedule one of them every month, regardless of how busy you think you are.</p><p>The Bottom Line</p><p>Someday is a goalpost that will keep moving as you inch closer. And it’s an excuse for not showing up today. For yourself, and for the people in your life.</p><p>The only day we&#39;re guaranteed is today, and trading too many todays for somedays is a terrible habit.</p><p>I&#39;m not suggesting being lazy or quitting what you’re working on. And I’m not saying you don’t have to make sacrifices sometimes. There has to be a balance, of course.</p><p>I&#39;m suggesting you apply your ambition to your whole life, not just your business.</p><p>Because the notion of “someday” will keep you on the hamster wheel forever. And nothing is more expensive than regret.</p><p>Today, we get the chance to live our lives. Right now.</p><p>Will there be trade-offs and hard work involved in building something meaningful? Of course. But those trade-offs should not destroy our lives in the short term.</p><p>And the life we have today is all we can be sure of.</p><p></p><p>Thanks for reading! Subscribe for free to receive new posts and support my work.</p><p></p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 45440,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/6kXr9YrdILGMDhL48wbIQS"
+        },
+        "href": "https://api.spotify.com/v1/episodes/6kXr9YrdILGMDhL48wbIQS",
+        "id": "6kXr9YrdILGMDhL48wbIQS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8a9523b57eb44505a367b89cca",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1f9523b57eb44505a367b89cca",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68d9523b57eb44505a367b89cca",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": true,
+        "language": "en",
+        "languages": ["en"],
+        "name": "The Dangerous Lie of 'Someday'",
+        "release_date": "2025-04-29",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:6kXr9YrdILGMDhL48wbIQS"
+      },
+      {
+        "audio_preview_url": null,
+        "description": "When it comes to building a business, being clueless might be your greatest asset.And the people who \"know what they're doing\" are often the most handicapped.Every day, I watch brilliant people with fancy degrees paralyze themselves with knowledge, while the person who doesn't know any better builds something useful.Because in a world obsessed with expe… To hear more, visit karthikeyathallapally.substack.com",
+        "html_description": "<p>When it comes to building a business, being clueless might be your greatest asset.</p><p>And the people who &#34;know what they&#39;re doing&#34; are often the most handicapped.</p><p>Every day, I watch brilliant people with fancy degrees paralyze themselves with knowledge, while the person who doesn&#39;t know any better builds something useful.</p><p>Because in a world obsessed with expe…</p> <br /><br />To hear more, visit <a href=\"https://karthikeyathallapally.substack.com?utm_medium&#61;podcast&amp;utm_campaign&#61;show-notes-spotify-open-access\" rel=\"nofollow\">karthikeyathallapally.substack.com</a>",
+        "duration_ms": 49386,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/episode/7wXgCYagH2in6GpjxD16MU"
+        },
+        "href": "https://api.spotify.com/v1/episodes/7wXgCYagH2in6GpjxD16MU",
+        "id": "7wXgCYagH2in6GpjxD16MU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab6765630000ba8acf3f55f91ef5d9ca205573d1",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67656300005f1fcf3f55f91ef5d9ca205573d1",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab6765630000f68dcf3f55f91ef5d9ca205573d1",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_externally_hosted": false,
+        "is_playable": false,
+        "language": "en",
+        "languages": ["en"],
+        "name": "Why Being Clueless is Your Secret Weapon in Business!",
+        "release_date": "2025-04-28",
+        "release_date_precision": "day",
+        "resume_point": {
+          "fully_played": false,
+          "resume_position_ms": 0
+        },
+        "type": "episode",
+        "uri": "spotify:episode:7wXgCYagH2in6GpjxD16MU",
+        "restrictions": {
+          "reason": "payment_required"
+        }
+      }
+    ]
+  }
+}
